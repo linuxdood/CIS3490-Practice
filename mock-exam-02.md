@@ -1,4 +1,4 @@
-# CIS 3490 Final Exam Mock Test
+# CIS 3490 Final Exam 2 Mock Test - 50 MCQs and 20 TFs
 
 ## Multiple Choice Questions (50 questions)
 
