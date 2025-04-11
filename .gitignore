@@ -1,0 +1,14 @@
+/data
+*.env
+
+# Ignore update script
+update_repo.sh
+
+# Ignore Trash folder from NAS
+.Trash-1000/
+
+# Optional: ignore common junk
+*.log
+*.bak
+*.swp
+*~
