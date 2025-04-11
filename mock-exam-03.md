@@ -4,7 +4,6 @@
 **Winter 2025**
 
 **Time: 2 hours 30 minutes**
-**Closed Book Examination**
 
 **Instructions:**
 - This exam consists of 45 multiple-choice questions and 25 true/false questions
