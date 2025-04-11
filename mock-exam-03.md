@@ -1,5 +1,5 @@
 # CIS 3490: Analysis and Design of Computer Algorithms
-## Mock Final Exam #3
+## Mock Final Exam #3 - 45 MCQs and 25 TFs
 
 **Winter 2025**
 
