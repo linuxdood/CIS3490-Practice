@@ -1,4 +1,4 @@
-# CIS 3490 Mock Final Exam - Solution Key
+# CIS 3490 Mock Final Exam 1 - Solution Key
 
 1. **d) O(n^log₇(7))**  
    Strassen's algorithm has a time complexity of O(n^log₇(7)), which is approximately O(n^2.81).
